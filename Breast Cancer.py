@@ -1,6 +1,6 @@
 """
 Author: Nurlan Najafzada
-Email: nurlan.najafzada@gmail.com
+Email: nurlan.najafzada@ufaz.az
 Description: Breast Cancer Diagnosis Tool
 """
 
